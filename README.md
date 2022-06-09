@@ -1,6 +1,6 @@
 # Hey! I'm **Tony Xin** 👋
 
-- 🔭 I'm currently working on AssignHub and Traders
+- 🔭 I'm currently working on Schej.it, AssignHub, and Supernova
 - 📫 How to reach me: yytonyxin@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ In my free time, I love playing basketball🏀 and ping pong🏓
