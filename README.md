@@ -1,6 +1,6 @@
 # Hey! I'm **Tony Xin** 👋
 
-- 🔭 I'm currently working on Aurora Solar, Schej, and Tomotime
+- 🔭 I'm currently working on Schej and Tomotime
 - 📫 How to reach me: yytonyxin@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ In my free time, I love playing basketball🏀 and ping pong🏓
