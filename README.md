@@ -6,7 +6,7 @@
 - ⚡ In my free time, I love playing basketball🏀 and ping pong🏓
 - 🤙 Check out my [personal website](https://tonyxin.com) for more information
 
-![ttonyxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttonyxx&show_icons=true&theme=dark&count_private=true)
+<!--![ttonyxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttonyxx&show_icons=true&theme=dark&count_private=true)-->
 
 ![Top Languages Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=ttonyxx&theme=dark) 
 
