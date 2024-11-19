@@ -1,4 +1,4 @@
-# Hey! I'm **Tony Xin** 👋
+# Hey! I'm **Tony** 👋
 
 - 🔭 I'm currently working on Schej, Tomotime, and Kikoff
 - 📫 How to reach me: yytonyxin@gmail.com
