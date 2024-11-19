@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on Schej, Tomotime, and Kikoff
 - 📫 How to reach me: yytonyxin@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ In my free time, I love playing basketball🏀 and ping pong🏓
+- ⚡ In my free time, I love ⛹️‍♂️, 🧗, 👨‍💻, 🏂, 🐐
 
 <!--![ttonyxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttonyxx&show_icons=true&theme=dark&count_private=true)-->
 
