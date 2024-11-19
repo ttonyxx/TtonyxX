@@ -4,7 +4,6 @@
 - 📫 How to reach me: yytonyxin@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ In my free time, I love playing basketball🏀 and ping pong🏓
-- 🤙 Check out my [personal website](https://tonyxin.com) for more information
 
 <!--![ttonyxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttonyxx&show_icons=true&theme=dark&count_private=true)-->
 
